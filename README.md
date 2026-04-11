@@ -3,6 +3,8 @@
 Backend Developer focused on building secure, scalable REST APIs and
 real-world backend systems using Node.js, NestJS, and PostgreSQL.
 
+![Profile Views](https://komarev.com/ghpvc/?username=yasir193&color=009090)
+
 ---
 
 ## Tech Stack
@@ -31,7 +33,7 @@ real-world backend systems using Node.js, NestJS, and PostgreSQL.
 **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Javascript-000?style=flat&logo=javascript&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/Javascript-000?style=flat&logo=javascript&logoColor=yellow)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ---
