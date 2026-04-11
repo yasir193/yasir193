@@ -31,25 +31,8 @@ real-world backend systems using Node.js, NestJS, and PostgreSQL.
 **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Javascript-000?style=flat&logo=javascript&logoColor=yellow)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
----
-
-## Featured Projects
-
-### [Tadawul Agents](https://tadawl.testdevelopment.top/)
-Automated trading agent platform — processes **10K+ daily market candles**,
-30% faster strategy execution via Redis caching, 25+ RESTful endpoints,
-JWT-secured with clean data ingestion pipelines.
-
-### [Shariabase](https://shariabase.ai/)
-AI-powered contract analysis system — evaluates documents for Sharia, legal,
-and ethical compliance, with automated clause refinement workflows and
-collaborative editing via AI chat.
-
-### [ADAS Web Application](https://graduation-project-rouge-eight.vercel.app/)
-Full-stack advanced driver assistance system — real-time IoT data streams,
-WebSocket-powered live dashboards, and AI-driven safety alerts under **300ms**.
 
 ---
 
